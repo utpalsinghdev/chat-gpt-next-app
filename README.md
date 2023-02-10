@@ -6,6 +6,8 @@
   <li>JavaScript</li>
   <li>OpenAI API</li>
   <li>Node.js</li>
+  <li>Next.js</li>
+  <li>TypeScript.js</li>
 </ul>
 <h2>Features</h2>
 <ul>
